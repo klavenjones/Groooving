@@ -1,9 +1,5 @@
 
-<<<<<<< HEAD
-const clientID = '2a29c4b644cc4eb38ea119731fbb22f5';
-=======
 const clientID = '';
->>>>>>> 6253ac9ea2b93ebecf603bed55392e840d71144c
 const redirectUri = 'http://groooving.surge.sh';
 
 let accessToken;
@@ -107,8 +103,4 @@ const Spotify = {
 
 };
 
-<<<<<<< HEAD
 export default Spotify;
-=======
-export default Spotify;
->>>>>>> 6253ac9ea2b93ebecf603bed55392e840d71144c
